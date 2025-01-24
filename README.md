@@ -2,7 +2,7 @@
 - :santa: Hi, I’m @HaonanGe
 - :blush: I’m interested in Machine Learning, Computer Vision.  And I decided to learn coding from 2025.01.19.
 - 🌱 I’m currently a third year BS ECE student @SEU, 26Fall USA.
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Johnny040216)
 <!--
 **Johnny040216/Johnny040216** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
