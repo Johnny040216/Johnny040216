@@ -46,4 +46,4 @@ jobs:
           plugin_leetcode_limit_recent: 2
           plugin_leetcode_limit_skills: 10
           plugin_leetcode_sections: solved
-          plugin_leetcode_user: .user.login
+          plugin_leetcode_user: .Johnny040216.login
